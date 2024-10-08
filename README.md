@@ -51,7 +51,7 @@ The project employs a multi-pronged approach to address these issues:
 
 ## 📷 Project Gallery
 
-![Community Meeting](images/community_meeting.jpg) ![Beekeeping Training](images/beekeeping_training.jpg)  
+![Community Meeting](images/discuss conservation plans.jpg) ![Beekeeping Training](images/Meeting Beekeeping Training.jpg)  
 *Left: Community meeting to discuss conservation plans.*  
 *Right: Training session on sustainable beekeeping.*
 
