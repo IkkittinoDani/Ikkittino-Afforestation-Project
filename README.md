@@ -9,8 +9,8 @@ _"Unity for a greener future"_ - Ikkittino
 
 The Ikkittino Afforestation Project aims to restore the natural beauty and biodiversity of the Kafa Biosphere Reserve in Ethiopia. This initiative promotes sustainable livelihoods, reduces deforestation, and enhances community awareness to protect this UNESCO-recognized biodiversity hotspot.
 
-![Kafa Forest](images/kafa_forest.jpeg)
-*Image: The beautiful landscape of the Kafa Biosphere, home to wild Coffea arabica varieties.*
+![Kafa Forest](images/kafa_forest.jpg)
+*Image: The beautiful landscape of Kafa Biosphere, home to wild Coffea arabica varieties.*
 
 ---
 
@@ -20,13 +20,16 @@ High rates of deforestation and overgrazing are threatening the delicate ecosyst
 
 ---
 
-## 🌱 Our Solution
+## 🌱 Solution
 
-We tackle these challenges through:
+The project employs a multi-pronged approach to address these issues:
 1. **Community Awareness Programs**: Educating locals on the importance of preserving the environment.
 2. **Sustainable Livelihood Initiatives**: Introducing beekeeping and coffee agroforestry as alternative income sources.
 3. **Afforestation and Reforestation**: Planting native tree species and restoring degraded land areas.
 4. **Stakeholder Engagement**: Partnering with local government, NGOs, and community groups to support long-term conservation efforts.
+
+![Afforestation Activity](images/afforestation_activity.jpg)
+*Image: Community members participating in afforestation efforts.*
 
 ---
 
@@ -48,14 +51,9 @@ We tackle these challenges through:
 
 ## 📷 Project Gallery
 
-![Community Meeting Beekeeping Training](images/Meeting%20Beekeeping%20Training2.jpg)  
-*Image: Community meeting to discuss conservation plans.*
-
-![Beekeeping Training](images/Meeting%20Beekeeping%20Training.jpg)  
-*Image: Training session on sustainable beekeeping.*
-
-![Kafa Coffee](images/kafa_forest.jpeg)  
-*Image: Coffee plants growing in the Kafa Biosphere, integrating coffee production with conservation.*
+![Community Meeting](images/community_meeting.jpg) ![Beekeeping Training](images/beekeeping_training.jpg)  
+*Left: Community meeting to discuss conservation plans.*  
+*Right: Training session on sustainable beekeeping.*
 
 ---
 
@@ -104,5 +102,5 @@ Special thanks to our partners and supporters:
 
 ---
 
-![Kafa Coffee](images/kafa_forest.jpeg)  
+![Kafa Coffee](images/kafa_coffee.jpg)
 *Image: Coffee plants growing in the Kafa Biosphere, integrating coffee production with conservation.*
